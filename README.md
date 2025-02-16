@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrasadBattena
-- 👀 I’m interested in Manualtesting to get into a job
-- 🌱 I’m currently learning Manual and Automation testing
+- 👀 I’m interested in DevsecOps to get into a job
+- 🌱 I’m currently learning DevsecOps.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me linkedin.com/in/prasad-battena-71808528b
 
