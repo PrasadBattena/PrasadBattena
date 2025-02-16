@@ -2,7 +2,8 @@
 
 🚀 **Cloud & DevOps Engineer | AWS | Linux | CI/CD | Automation**  
 
-I have **3+ years of experience** in **Operations & DevOps**, specializing in cloud infrastructure, automation, and deployment pipelines. I am actively looking for **Cloud Engineer / DevOps Engineer roles** where I can apply my skills in **AWS, CI/CD, and Linux** to build scalable and secure systems.  
+I have **3+ years of experience** in **Operations & DevOps**, specializing in cloud infrastructure, automation, and deployment pipelines.
+I am actively looking for **Cloud Engineer / DevOps Engineer roles** where I can apply my skills in **AWS, CI/CD, and Linux** to build scalable and secure systems.  
 
 ---
 
