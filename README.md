@@ -13,16 +13,14 @@ I have **3+ years of experience** in **Operations & DevOps**, specializing in cl
 - 🐳 **Containerization & Orchestration:** Docker, Kubernetes  
 - 📊 **Monitoring & Logging:** Prometheus, Grafana  
 - 🖥 **OS & Scripting:** Linux, Bash
-- 
+  
 ---
 
 ## 📫 **Let's Connect!**  
 📧 **Email:** prasadbattena@gmail.com
 🔗 **LinkedIn:** (https://www.linkedin.com/in/prasad-battena/)  
-🔗 **GitHub:** ()  
-
+🔗 **GitHub:** (https://github.com/PrasadBattena)  
 ---
-
 ⚡ *Passionate about cloud, automation, and DevOps best practices. Open to networking and exciting opportunities!* 🚀  
  
 
